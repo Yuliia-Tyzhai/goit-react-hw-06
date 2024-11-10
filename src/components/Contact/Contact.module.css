@@ -1,0 +1,19 @@
+.name {
+  color: aliceblue;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.number {
+  color: aliceblue;
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.button {
+  font-size: 20px;
+  color: #fffff0;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  background-color: #808080;
+}
